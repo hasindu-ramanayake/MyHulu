@@ -1,10 +1,13 @@
+import Header from "../components/Header";
 
 export default function Home() {
   return (
     <div>
       <title>MyHulu</title>
-      <h1>Hello Next.js</h1>
-      
+      <Header />
+      {/* nav */}
+      {/* results */}
+
     </div>
   )
 }
