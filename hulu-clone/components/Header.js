@@ -20,6 +20,7 @@ function Header() {
             <HeaderItem title='SEARCH' Icon={SearchIcon}/>
             <HeaderItem title='ACCOUNT' Icon={UserIcon}/>
         </div>
+        <h1 className=' text-60' width={200} height={100} >MyHuLuImage</h1>
     {/* <Image
         className="object-contain" 
         src="D:/webDev/projects/MyHulu/styles/hululogo.png" 
