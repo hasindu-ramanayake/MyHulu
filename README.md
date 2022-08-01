@@ -11,3 +11,6 @@ heroicons;
 
 .env.local file contain:
 API_KEY (add your own file)
+
+log in to https://www.themoviedb.org/,
+go to setting, get the API

@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains:["images.tmdb.org"]
+    domains:["image.tmdb.org"]
   },
   reactStrictMode: true,
   swcMinify: true,
